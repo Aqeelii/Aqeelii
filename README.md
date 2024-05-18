@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aqeelii
-- 👀 I’m interested in Data scienec and Machine learning
+- 👀 I’m interested in Data science and Machine learning
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me bnaqeeliy@gmail.com
